@@ -56,6 +56,8 @@ struct NotZlibException {
 #define DIV_XM_MAGIC "Extended Module: "
 #define DIV_IT_MAGIC "IMPM"
 #define DIV_TFM_MAGIC "TFMfmtV2"
+#define DIV_DMU_MAGIC " MUGICIAN/SOFTEYES 1990 "
+#define DIV_DMU2_MAGIC " MUGICIAN2/SOFTEYES 1990"
 
 #define DIV_FUR_MAGIC_DS0 "Furnace-B module"
 

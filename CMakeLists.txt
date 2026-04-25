@@ -760,6 +760,7 @@ src/engine/platform/ym2610Interface.cpp
 
 src/engine/fileOps/fileOpsCommon.cpp
 src/engine/fileOps/dmf.cpp
+src/engine/fileOps/dmu.cpp
 src/engine/fileOps/fc.cpp
 src/engine/fileOps/ftm.cpp
 src/engine/fileOps/fur.cpp
